@@ -1,13 +1,862 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
 }
+.desktop1-desktop1 {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-frame1 {
+  width: 1418px;
+  height: 4238px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-intro {
+  top: 0px;
+  left: 32px;
+  width: 839px;
+  height: 540px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text10 {
+  left: 10px;
+  color: rgba(2, 2, 2, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text11 {
+  top: 218px;
+  left: 134px;
+  color: rgba(36, 34, 35, 1);
+  width: 705px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vector1 {
+  top: 223px;
+  left: 48px;
+  width: 564px;
+  height: 111px;
+  position: absolute;
+}
+.desktop1-leonardo-kino-x-lcomputerdeskminimalistcloseupmessy11 {
+  top: 334px;
+  left: 134px;
+  width: 345px;
+  height: 206px;
+  position: absolute;
+}
+.desktop1-text12 {
+  top: 340px;
+  left: 494px;
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text13 {
+  top: 188px;
+  left: 584px;
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-about1 {
+  top: 486px;
+  left: 1px;
+  width: 1417px;
+  height: 770px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-picsart2411151211469551 {
+  top: 187px;
+  left: 20px;
+  width: 255px;
+  height: 335px;
+  position: absolute;
+}
+.desktop1c2bbda01de714d232ab6f73682e0a1b71 {
+  top: 187px;
+  left: 280px;
+  width: 256px;
+  height: 335px;
+  position: absolute;
+}
+.desktop1-text14 {
+  top: 187px;
+  left: 553px;
+  color: rgba(36, 34, 35, 1);
+  width: 257px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-untitleddesign81 {
+  right: -16px;
+  width: 1376px;
+  bottom: -4px;
+  height: 770px;
+  position: absolute;
+}
+.desktop1-text18 {
+  top: 385px;
+  left: 550px;
+  color: rgba(0, 0, 0, 1);
+  width: 510px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Cutive Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text19 {
+  top: 535px;
+  left: 20px;
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text20 {
+  top: 1328px;
+  left: 609px;
+  color: rgba(36, 34, 35, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-about2 {
+  top: 1256px;
+  left: 0px;
+  width: 1217px;
+  height: 413px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-picsart2411151213589111 {
+  top: 0px;
+  left: 870px;
+  width: 165px;
+  height: 276px;
+  position: absolute;
+}
+.desktop1image24ea1234acb63c551891c139002d973e1 {
+  top: 0px;
+  left: 1052px;
+  width: 165px;
+  height: 276px;
+  position: absolute;
+}
+.desktop1-untitleddesign101 {
+  top: 104px;
+  left: 531px;
+  width: 331px;
+  height: 109px;
+  position: absolute;
+}
+.desktop1-text21 {
+  top: 234px;
+  left: 20px;
+  color: rgba(0, 0, 0, 1);
+  width: 297px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text22 {
+  top: 270px;
+  left: 20px;
+  color: rgba(0, 0, 0, 1);
+  width: 690px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Cutive Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text23 {
+  top: 296px;
+  left: 870px;
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-skills {
+  top: 2349px;
+  left: 1px;
+  width: 1155px;
+  height: 669px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text24 {
+  top: 178px;
+  left: 20px;
+  color: rgba(0, 0, 0, 1);
+  width: 345px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-untitleddesign92 {
+  top: 0px;
+  left: 356px;
+  width: 452px;
+  height: 399px;
+  position: absolute;
+}
+.desktop1-text25 {
+  display: inline-block;
+  transform: rotate(270deg);
+  top: 315px;
+  left: 675px;
+  color: rgba(36, 34, 35, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text26 {
+  top: 199px;
+  left: 885px;
+  color: rgba(0, 0, 0, 1);
+  width: 270px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Thin;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 100;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1f2f4c7eba2c862165330d31e3c60253c1 {
+  top: 416px;
+  left: 375px;
+  width: 165px;
+  height: 253px;
+  position: absolute;
+}
+.desktop1e3cde152454bb04678491587975bc85a1 {
+  top: 416px;
+  left: 20px;
+  width: 347px;
+  height: 253px;
+  position: absolute;
+}
+.desktop1-about3 {
+  top: 1854px;
+  left: 1px;
+  width: 1230px;
+  height: 580px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text46 {
+  top: 79px;
+  left: 20px;
+  color: rgba(36, 34, 35, 1);
+  width: 281px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-untitleddesign91 {
+  top: 0px;
+  left: 20px;
+  width: 259px;
+  height: 278px;
+  position: absolute;
+}
+.desktop1-text47 {
+  top: 163px;
+  left: 166px;
+  color: rgba(0, 0, 0, 1);
+  width: 631px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text48 {
+  top: 163px;
+  left: 20px;
+  color: rgba(0, 0, 0, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text49 {
+  display: inline-block;
+  transform: rotate(270deg);
+  top: 380px;
+  left: 1070px;
+  color: rgba(0, 0, 0, 1);
+  width: 370px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-leonardo-kino-x-lwebsitecodeinnotepad11 {
+  top: 319px;
+  left: 20px;
+  width: 594px;
+  height: 261px;
+  position: absolute;
+}
+.desktop1-text50 {
+  top: 3070px;
+  left: 1039px;
+  color: rgba(0, 0, 0, 1);
+  width: 255px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-contact {
+  top: 3186px;
+  left: 54px;
+  width: 997px;
+  height: 421px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text51 {
+  top: 40px;
+  color: rgba(36, 34, 35, 1);
+  width: 242px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text52 {
+  top: 126px;
+  color: rgba(0, 0, 0, 1);
+  width: 354px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Cutive Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-untitleddesign111 {
+  top: 0px;
+  left: 202px;
+  width: 236px;
+  height: 178px;
+  position: absolute;
+}
+.desktop1-rectangle1 {
+  top: 107px;
+  left: 562px;
+  width: 435px;
+  height: 36px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.desktop1-rectangle2 {
+  top: 160px;
+  left: 562px;
+  width: 435px;
+  height: 36px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.desktop1-rectangle3 {
+  top: 213px;
+  left: 562px;
+  width: 435px;
+  height: 149px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.desktop1-rectangle4 {
+  top: 385px;
+  left: 705px;
+  width: 150px;
+  height: 36px;
+  position: absolute;
+}
+.desktop1-text53 {
+  top: 115px;
+  left: 585px;
+  color: rgba(0, 0, 0, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text54 {
+  top: 167px;
+  left: 585px;
+  color: rgba(0, 0, 0, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text55 {
+  top: 220px;
+  left: 585px;
+  color: rgba(0, 0, 0, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text56 {
+  top: 391px;
+  left: 755px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-thanks {
+  top: 3807px;
+  left: 43px;
+  width: 1039px;
+  height: 431px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text57 {
+  top: 21px;
+  left: 123px;
+  color: rgba(36, 34, 35, 1);
+  width: 292px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vector2 {
+  top: 21px;
+  left: 32px;
+  width: 564px;
+  height: 111px;
+  position: absolute;
+}
+.desktop1-text58 {
+  left: 663px;
+  color: rgba(0, 0, 0, 1);
+  width: 376px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Cutive Mono;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text59 {
+  top: 415px;
+  left: 510px;
+  color: rgba(0, 0, 0, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Light;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text60 {
+  top: 291px;
+  color: rgba(0, 0, 0, 1);
+  width: 277px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: JetBrains Mono;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.form-column {
+  display: flex;
+  flex-direction: column; /* Align children in a column */
+  gap: 10px; /* Space between textboxes */
+  max-width: 300px; /* Optional: control the width of the form */
+}
+.textbox1 {
+position: relative;
+top: 105px;
+left: 600px;
+width: 300px;
+height: 30px;
+padding: 10px;
+border: 1px solid #0d0d0f;
+fontSize: 16px;
+font-family: JetBrains Mono;
+}
+.textbox2 {
+  position: relative;
+  top: 105px;
+  left: 600px;
+  width: 300px;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid #0d0d0f;
+  fontSize: 16px;
+  font-family: JetBrains Mono;
+  }
+.submit {
+    position: relative;
+    top: 112px;
+    left: 700px;
+    padding: 10px 20px;
+    background-color: #0d0d0f;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-family: JetBrains Mono;
+    cursor: pointer;
+}
+@media(max-width: 1200px) {
+  .desktop1-intro {
+    left: 10%;
+    width: 80%;  /* Adjust width for tablets */
+  }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  .desktop1-text11 {
+    font-size: 36px;
+  }
+
+  .desktop1-picsart2411151211469551,
+  .desktop1c2bbda01de714d232ab6f73682e0a1b71 {
+    width: 100%;  /* Adjust image sizes */
+  }
+
+  .desktop1-text14 {
+    font-size: 36px;
+  }
+
+  .desktop1-contact {
+    top: 2500px;
+    width: 90%;  /* Adjust width for mobile */
+  }
+
+  .textbox1, .textbox2 {
+    width: 100%;  /* Full-width textboxes on small screens */
+  }
+
+  .desktop1-text57 {
+    font-size: 32px;
+  }
+}
+@media(max-width: 768px) {
+  .desktop1-frame1 {
+    width: 100%;
+  }
+
+  .desktop1-intro {
+    top: 0;
+    width: 90%;  /* Full-width for mobile */
+  }
+
+  .desktop1-text11 {
+    font-size: 28px;
+  }
+
+  .desktop1-about1,
+  .desktop1-skills,
+  .desktop1-contact,
+  .desktop1-thanks {
+    flex-direction: column; /* Stack elements vertically */
+    width: 100%;
+  }
+
+  .desktop1-text24 {
+    font-size: 16px;
+  }
+
+  .desktop1-text25 {
+    font-size: 20px;
+  }
+
+  .desktop1-rectangle1,
+  .desktop1-rectangle2,
+  .desktop1-rectangle3 {
+    width: 100%;
+  }
+
+  .desktop1-text51 {
+    font-size: 24px;
+  }
+
+  .desktop1-untitleddesign111 {
+    width: 90%;  /* Adjust form widths */
+  }
+
+  .textbox1, .textbox2 {
+    width: 100%;  /* Full-width textboxes */
+    margin-bottom: 10px;
+  }
+
+  .submit {
+    width: 100%;  /* Full-width submit button */
+  }
+}
+@media(max-width: 480px) {
+  .desktop1-frame1 {
+    width: 100%;
+  }
+
+  .desktop1-text11 {
+    font-size: 20px;
+  }
+
+  .desktop1-text14 {
+    font-size: 24px;
+  }
+
+  .desktop1-text25 {
+    font-size: 18px;
+  }
+
+  .desktop1-text51 {
+    font-size: 22px;
+  }
+
+  .desktop1-rectangle1,
+  .desktop1-rectangle2,
+  .desktop1-rectangle3 {
+    width: 100%;
+  }
+
+  .textbox1, .textbox2 {
+    width: 100%;  /* Ensure form fields are full-width */
+    font-size: 14px;  /* Adjust font size */
+  }
+
+  .submit {
+    font-size: 14px;
+    width: 100%;
+  }
 }
