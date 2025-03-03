@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.42bf4854.css",
+    "main.js": "/my-portfolio/static/js/main.81aef3d0.js",
+    "static/js/453.1407b060.chunk.js": "/my-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/leonardokinoxlwebsitecodeinnotepad11115-g61m-300h.png": "/my-portfolio/static/media/leonardokinoxlwebsitecodeinnotepad11115-g61m-300h.38224f3db14eec4246a9.png",
+    "static/media/113-3ayf-400h.png": "/my-portfolio/static/media/c2bbda01de714d232ab6f73682e0a1b7113-3ayf-400h.8dcf40e39513e03c19ce.png",
+    "static/media/picsart-wl6h-400h.png": "/my-portfolio/static/media/picsart241115121146955116-wl6h-400h.69f12810ddf0867485e2.png",
+    "static/media/leonardokinoxlcomputerdeskminimalistcloseupmessy11113-bgb7-300h.png": "/my-portfolio/static/media/leonardokinoxlcomputerdeskminimalistcloseupmessy11113-bgb7-300h.36031f88b0a2dbeed8b0.png",
+    "static/media/114-g9pd-300h.png": "/my-portfolio/static/media/e3cde152454bb04678491587975bc85a114-g9pd-300h.4a2c18544a8b915d99ba.png",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/vector1614-8tp5.svg": "/my-portfolio/static/media/vector1614-8tp5.cbd8c2031352038c5f9f67bdca7d7714.svg",
+    "static/media/vector22025-wks6.svg": "/my-portfolio/static/media/vector22025-wks6.cbd8c2031352038c5f9f67bdca7d7714.svg",
+    "main.42bf4854.css.map": "/my-portfolio/static/css/main.42bf4854.css.map",
+    "main.81aef3d0.js.map": "/my-portfolio/static/js/main.81aef3d0.js.map",
+    "453.1407b060.chunk.js.map": "/my-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42bf4854.css",
+    "static/js/main.81aef3d0.js"
+  ]
+}
